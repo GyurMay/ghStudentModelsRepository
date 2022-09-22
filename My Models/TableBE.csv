@@ -1,0 +1,10 @@
+ERwin Property Ids,1075850516::User Formatted Name  [read only],0::Object Type  [read only],1073742125::Definition,1073742126::Name,1075849148::Comments,1075849176::Physical Name
+"1075838979::139","EMPLOYEE",Table,"EMPLOYEE is a person that works for the VIDEO STORE","EMPLOYEE","EMPLOYEE is a person that works for the VIDEO STORE","EMPLOYEE"
+"1075838979::141","MOVIE",Table,"A MOVIE is any video that can be rented” for the entity “MOVIE","MOVIE","A MOVIE is any video that can be rented” for the entity “MOVIE","MOVIE"
+"1075838979::143","STORE",Table,"A STORE is one of the MOVIE STORES where a customer can rent a movie","STORE","A STORE is one of the MOVIE STORES where a customer can rent a movie","STORE"
+"1075838979::158","MOVIE RENTAL RECORD",Table,"A MOVIE RENTAL RECORD is a record that  is kept on every MOVIE in the STORE  on who and when a MOVIE is rented","MOVIE RENTAL RECORD","A MOVIE RENTAL RECORD is a record that  is kept on every MOVIE in the STORE  on who and when a MOVIE is rented","MOVIE_RENTAL_RECORD"
+"1075838979::160","MOVIE COPY",Table,"A MOVIE COPY is a single copy of a MOVIE","MOVIE COPY","A MOVIE COPY is a single copy of a MOVIE","MOVIE_COPY"
+"1075838979::242","CUSTOMER",Table,"A CUSTOMER is a person or organization who has rented a movie within the past year.","CUSTOMER","A CUSTOMER is a person or organization who has rented a movie within the past year.","CUSTOMER"
+"1075838979::262","CUSTOMER CREDIT",Table,"CUSTOMER CREDIT is the status of available credit for a CUSTOMER","CUSTOMER CREDIT","CUSTOMER CREDIT is the status of available credit for a CUSTOMER","CUSTOMER_CREDIT"
+"1075838979::326","MOVIE_STORE",Table,"","MOVIE_STORE","","MOVIE_STORE"
+"1075838979::338","PAYMENT",Table,"A PAYMENT is received when a customer rents a movie","PAYMENT","A PAYMENT is received when a customer rents a movie","PAYMENT"
