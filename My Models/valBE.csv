@@ -1,0 +1,2 @@
+ERwin Property Ids,1075850516::User Formatted Name  [read only],0::Object Type  [read only],1073742126::Name,1075849176::Physical Name,1075848986::Value,1073742125::Definition,1075849148::Comments
+"1075839020::229","Movie_genre",Validation Rule,"Movie_genre","Moviegenre","@col IN ('AA', 'AN', 'CO', 'DO', 'DR', 'FA', 'CL', 'HO', 'MY', 'SF', 'WS')","",""

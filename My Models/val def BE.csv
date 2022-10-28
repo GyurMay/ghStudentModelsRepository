@@ -1,0 +1,8 @@
+ERwin Property Ids,1075850516::User Formatted Name  [read only],0::Object Type  [read only],1073742126::Name,1075849176::Physical Name,1075848986::Value,1073742125::Definition,1075849148::Comments
+"1075839019::37","NULL",Default Value,"NULL","NULL","NULL","",""
+"1075839019::38","USER",Default Value,"USER","USER","USER","",""
+"1075839019::39","CURRENT_TIMESTAMP",Default Value,"CURRENT_TIMESTAMP","CURRENT_TIMESTAMP","CURRENT_TIMESTAMP","",""
+"1075839019::40","CURRENT_USER",Default Value,"CURRENT_USER","CURRENT_USER","CURRENT_USER","",""
+"1075839019::41","SESSION_USER",Default Value,"SESSION_USER","SESSION_USER","SESSION_USER","",""
+"1075839019::42","SYSTEM_USER",Default Value,"SYSTEM_USER","SYSTEM_USER","SYSTEM_USER","",""
+"1075839020::229","Movie_genre",Validation Rule,"Movie_genre","Moviegenre","@col IN ('AA', 'AN', 'CO', 'DO', 'DR', 'FA', 'CL', 'HO', 'MY', 'SF', 'WS')","",""
